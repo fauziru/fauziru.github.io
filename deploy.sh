@@ -8,10 +8,10 @@ npm run build
 # npx workbox injectManifest workbox-config.js
 
 cd dist
-if you are deploying to a custom domain
-echo 'www.example.com' > CNAME
+#if you are deploying to a custom domain
+#echo 'www.example.com' > CNAME
 git init
 git add -A
-git commit -m 'deploy v0.3'
-git push -f git@github.com:fauziru/fauziru.github.io.git master:gh-pages
+git commit -m 'deploy v0.1'
+git push -f git@github.com:fauziru/fauziru.github.io.git master:main
 cd -

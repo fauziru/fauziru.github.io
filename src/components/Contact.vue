@@ -38,11 +38,11 @@
             <h2 class="title-font font-semibold text-white tracking-widest text-xs">
               EMAIL
             </h2>
-            <a class="text-red-400 leading-relaxed">fauzirezaumr@email.com</a>
+            <a class="text-red-400 leading-relaxed">fauzirezaumr@gmail.com</a>
             <h2 class="title-font font-semibold text-white tracking-widest text-xs mt-4">
               PHONE
             </h2>
-            <p class="leading-relaxed">+62-896-9120-7607</p>
+            <p class="leading-relaxed">+62-856-9120-7607</p>
           </div>
         </div>
       </div>
@@ -88,7 +88,7 @@
           ></textarea>
         </div>
         <button class="text-white bg-red-500 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg">
-          Button
+          Submit
         </button>
       </div>
     </div>
